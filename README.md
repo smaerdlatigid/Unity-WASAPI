@@ -15,7 +15,6 @@ Features
     public LoopbackAudio Audio;
     public int bufferSmooth = 0;
     public Gradient gradient; 
-    VisualEffect visualEffect;
     Texture2D texture;
 
     
